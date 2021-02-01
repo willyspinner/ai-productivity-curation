@@ -1,3 +1,4 @@
+Curating some really awesome things people have built over the past few years. The scope/vertical is broadly defined here; we collect apps / software that help solve time-consuming / annoying problems using ML / AI tech.
 # Text to Speech / Listening
 
 ### [Speechify](https://speechify.com) 
@@ -30,6 +31,7 @@ Intuitive & powerful Document Viewer that uses ML to generate flashcards & key q
 ### [Elsa](https://elsaspeak.com/en/)
 
 **Platform**: Mobile app
+
 English learning app that uses AI to correct pronounciation mistakes. 
 
 
