@@ -47,6 +47,9 @@ Generates rich notes from meetings, interviews, lectures, and.important voice co
 
 ^ This is actually so cool
 
+### [Synthesia](https://synthesia.io)
+Create your own AI video - as easy as writing an email. Can select from many AI presenters to read out the script compellingly.
+
 # Education / Learning
 ### [mathpix](https://mathpix.com)
 ML-powered market-leading Math/ STEM OCR. Convert any math image, document, pdf, to LaTeX.
